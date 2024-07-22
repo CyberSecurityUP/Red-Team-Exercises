@@ -49,6 +49,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #14 - Direct and Indirect Syscall PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-syscall-activity-7218437410651594752-h9K5?utm_source=share&utm_medium=member_desktop 
 
+Red Team Exercises #15 - Direct Syscall Lsass Dump
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-informationsecurity-activity-7220958774251913216-aOYp?utm_source=share&utm_medium=member_desktop
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
