@@ -56,8 +56,7 @@ Red Team Exercises #16 - BYOVD Technique PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-byovd-activity-7222089315663642625-yPSU?utm_source=share&utm_medium=member_desktop
 
 Red Team Exercises #17 - Active Directory Enumeration PT.1
-https://www.linkedin.com/posts/joas-antonio-dos-santos_bloodhound-cheat-sheet-v10-by-michiel-lemmens-activity-7225718600001572865-Hx_h?utm_source=share&utm_medium=member_desktop
-
+https://www.linkedin.com/posts/joas-antonio-dos-santos_bloodhound-cheat-sheet-v1-activity-7225869383489773568-uvRS?utm_source=share&utm_medium=member_desktop
 
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
