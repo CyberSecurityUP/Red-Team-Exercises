@@ -64,6 +64,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #19 - Alternative, Custom or Undocumented Implementations of Windows API PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteamoperations-defenseevasion-activity-7229563862759403520-h9_7?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #20 - EDR Evasion using Hookchain Technique Created by Hélvio Júnior, SCMPA e SCWAP Leader, OSCE3, OSCP, eCXD
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7230653751382994944-qZs9?utm_source=share&utm_medium=member_desktop
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
