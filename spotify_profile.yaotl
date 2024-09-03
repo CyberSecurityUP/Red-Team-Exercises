@@ -1,0 +1,57 @@
+# HAVOC C2 PROFILE
+
+Teamserver {
+    Host = "0.0.0.0"
+    Port = 40056
+
+    Build {
+        Compiler64 = "/usr/bin/x86_64-w64-mingw32-gcc"
+        Compiler86 = "/usr/bin/i686-w64-mingw32-gcc"
+        Nasm = "/usr/bin/nasm"
+    }
+}
+
+Operators {
+    user "5pider" {
+        Password = "password1234"
+    }
+
+    user "Neo" {
+        Password = "password1234"
+    }
+}
+
+Listeners {
+    Http {
+        Name         = "spotify profile - http"
+        Hosts        = [
+            "api.spotify.com:443",  
+        ]
+        HostBind     = "0.0.0.0"   
+        PortBind     = 443
+        PortConn     = 4444         
+        HostRotation = "round-robin" 
+        Secure       = false       
+        UserAgent    = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Spotify/1.1.10.540"
+        Uris         = ["/v1/me/player/currently-playing", "/v1/me/player/recently-played"]  # URIs utilizadas
+        Headers = ["Accept: application/json", "Referer: https://open.spotify.com/", "Accept-Encoding: gzip, deflate, br", "Origin: https://open.spotify.com"]
+    }
+}
+
+Service {
+    Endpoint = "service-endpoint"
+    Password = "service-password"
+}
+
+
+Demon {
+    Sleep = 2
+    Jitter = 20
+
+    TrustXForwardedFor = false
+
+    Injection {
+        Spawn64 = "C:\\Windows\\System32\\Werfault.exe"
+        Spawn32 = "C:\\Windows\\SysWOW64\\Werfault.exe"
+    }
+}
