@@ -67,6 +67,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteamo
 Red Team Exercises #20 - EDR Evasion using Hookchain Technique Created by Hélvio Júnior, SCMPA e SCWAP Leader, OSCE3, OSCP, eCXD
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7230653751382994944-qZs9?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #21 - Havoc C2 Profile
+https://www.linkedin.com/posts/joas-antonio-dos-santos_cyberecurity-redteamexercises-redteam-activity-7236704509563985920-EpJ4?utm_source=share&utm_medium=member_desktop
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
