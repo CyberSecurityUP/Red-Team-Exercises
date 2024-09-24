@@ -73,6 +73,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_cyberecurity-redteamexerc
 Red Team Exercises #22 - MutationGate Technique EDR Evasion by Ziyi Shen
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7239467211545886720-JdxV?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #23 - Windows API Hashing 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7243227509549371392-curr?utm_source=share&utm_medium=member_desktop
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
