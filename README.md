@@ -76,6 +76,10 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #23 - Windows API Hashing 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7243227509549371392-curr?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #24 - Powershell Unmanaged or Powershell w/o Powershell
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7245123542587981824-fwZT?utm_source=share&utm_medium=member_desktop
+
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
