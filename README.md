@@ -82,7 +82,8 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #25 - UnhookingPatch by Saad AHLA
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7246214606099009536-eVrM?utm_source=share&utm_medium=member_desktop
 
-
+Red Team Exercises #26 - Syswhisper3 - (in)Direct Syscall Tool
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-syscalls-ugcPost-7247988959685873666-W0pQ?utm_source=share&utm_medium=member_desktop
 
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
