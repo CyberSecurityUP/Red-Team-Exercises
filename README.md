@@ -85,6 +85,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-red
 Red Team Exercises #26 - Syswhisper3 - (in)Direct Syscall Tool
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-syscalls-ugcPost-7247988959685873666-W0pQ?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #27 - Syscall Hook Detector 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7249584951036133376-dc8t?utm_source=share&utm_medium=member_desktop
+
 ## Coming Soon
 ![Introdução ao Red Team Operations 2](https://github.com/CyberSecurityUP/Red-Team-Exercises/assets/34966120/6fed63fa-00e9-4fef-9b6b-4bfb6e7dff61)
 
