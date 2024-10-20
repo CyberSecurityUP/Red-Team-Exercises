@@ -95,4 +95,4 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 
 # OSINT-Red-Team-Exercises
 
-
+https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-redteamexercises-osintexercises-activity-7253736729285672961-SKDq?utm_source=share&utm_medium=member_desktop
