@@ -91,8 +91,12 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #28 - Mimikatz Cheatsheet Basic
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7253180441560530945-wTeF?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #29 - Red Team Exercises #29 - HTML Smuggling Delivery 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7255911100032995328-q-W8?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
 
+OSINT for Red Team Exercises - #1 Dorks Search using sitedorks Tool
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-redteamexercises-osintexercises-activity-7253736729285672961-SKDq?utm_source=share&utm_medium=member_desktop
