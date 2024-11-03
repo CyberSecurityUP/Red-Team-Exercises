@@ -94,6 +94,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #29 - Red Team Exercises #29 - HTML Smuggling Delivery 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7255911100032995328-q-W8?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #30 - Creating a simple Dropper in C++ PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7258880173310132224-o_NG?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
