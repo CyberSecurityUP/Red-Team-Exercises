@@ -100,3 +100,6 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 
 OSINT for Red Team Exercises - #1 Dorks Search using sitedorks Tool
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-redteamexercises-osintexercises-activity-7253736729285672961-SKDq?utm_source=share&utm_medium=member_desktop
+
+OSINT for Red Team #2 - Credential Leaks: Exploring Targets with Compromised Data Intelligence PT.1 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-osint-osintforredteam-activity-7257723022843781120-Otii?utm_source=share&utm_medium=member_desktop
