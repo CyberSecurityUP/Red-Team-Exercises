@@ -9,6 +9,9 @@ Download Lab Dev: https://mega.nz/file/LB1HTQQL#UQ9dKCj55NO1up-iJxfUqGXpV7uJlSMu
 
 ### LinkedIn posts
 
+Red Team Exercises #0 - Red Team Dev Machine Download
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamdev-redteamexercises-activity-7264053830919614465--0xL?utm_source=share&utm_medium=member_desktop
+
 Red Team Exercise #1 - How to improve my shellcode runner
 https://www.linkedin.com/posts/joas-antonio-dos-santos_hacking-redteam-cybersecurity-activity-7187108451313983489-X0uc?utm_source=share&utm_medium=member_desktop
 
