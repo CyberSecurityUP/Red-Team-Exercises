@@ -96,7 +96,7 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #28 - Mimikatz Cheatsheet Basic
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7253180441560530945-wTeF?utm_source=share&utm_medium=member_desktop
 
-Red Team Exercises #29 - Red Team Exercises #29 - HTML Smuggling Delivery 
+Red Team Exercises #29 - HTML Smuggling Delivery 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7255911100032995328-q-W8?utm_source=share&utm_medium=member_desktop
 
 Red Team Exercises #30 - Creating a simple Dropper in C++ PT.1
@@ -109,5 +109,5 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 OSINT for Red Team Exercises - #1 Dorks Search using sitedorks Tool
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-redteamexercises-osintexercises-activity-7253736729285672961-SKDq?utm_source=share&utm_medium=member_desktop
 
-OSINT for Red Team #2 - Credential Leaks: Exploring Targets with Compromised Data Intelligence PT.1 
+OSINT for Red Team Exercises #2 - Credential Leaks: Exploring Targets with Compromised Data Intelligence PT.1 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-osint-osintforredteam-activity-7257723022843781120-Otii?utm_source=share&utm_medium=member_desktop
