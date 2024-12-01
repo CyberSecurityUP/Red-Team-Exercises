@@ -102,6 +102,15 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #30 - Creating a simple Dropper in C++ PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7258880173310132224-o_NG?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #31 - Movfuscator (A fun way to obfuscate, but perhaps not effective these days)
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7262037200475721731-McHq?utm_source=share&utm_medium=member_desktop
+
+Red Team Exercises #32 - Donut Shellcode Generator PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7264846631399776256-nV6Q?utm_source=share&utm_medium=member_desktop
+
+Red Team Exercises #33 - Shellcode Runner with Kill Switch / Panic Switch
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7268790211692670977-kFeT?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
