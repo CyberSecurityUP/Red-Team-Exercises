@@ -111,6 +111,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #33 - Shellcode Runner with Kill Switch / Panic Switch
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7268790211692670977-kFeT?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #34 - Remote Thread Hijacking
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7271003348558860288-M8tu?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
