@@ -123,3 +123,7 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-redteamexer
 
 OSINT for Red Team Exercises #2 - Credential Leaks: Exploring Targets with Compromised Data Intelligence PT.1 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-osint-osintforredteam-activity-7257723022843781120-Otii?utm_source=share&utm_medium=member_desktop
+
+OSINT for Red Team Exercises #3 - Whois and Resolving Domains
+https://www.linkedin.com/posts/joas-antonio-dos-santos_osintexercises-redteam-cybersecurity-activity-7265813615121727491-PKos?utm_source=share&utm_medium=member_desktop
+
