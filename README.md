@@ -127,3 +127,6 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-osint-osint
 OSINT for Red Team Exercises #3 - Whois and Resolving Domains
 https://www.linkedin.com/posts/joas-antonio-dos-santos_osintexercises-redteam-cybersecurity-activity-7265813615121727491-PKos?utm_source=share&utm_medium=member_desktop
 
+OSINT for Red Team Exercises #4 - Deep/Dark Web Search PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_osint-redteam-cybersecurity-activity-7275701771451199488-uIxe?utm_source=share&utm_medium=member_desktop
+
