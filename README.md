@@ -114,6 +114,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #34 - Remote Thread Hijacking
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7271003348558860288-M8tu?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #35 - Impacket Collection Tools for Exploitation AD 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7278249542951616513-wcAo?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
