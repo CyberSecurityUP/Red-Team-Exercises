@@ -117,6 +117,8 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #35 - Impacket Collection Tools for Exploitation AD 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7278249542951616513-wcAo?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #36 - Persistence Techniques to Windows PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-persistence-activity-7279705498055028736-vE6K?utm_source=share&utm_medium=member_desktop
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
