@@ -120,6 +120,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #36 - Persistence Techniques to Windows PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-persistence-activity-7279705498055028736-vE6K?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #37 - Initial Access with LNK File 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7281414057784467457-rbzO?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
