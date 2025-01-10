@@ -123,6 +123,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #37 - Initial Access with LNK File 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7281414057784467457-rbzO?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #38 - SliverC2 and Shellcode Runner with Rust 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7283605426347126784-kFT_?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
