@@ -126,6 +126,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #38 - SliverC2 and Shellcode Runner with Rust 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7283605426347126784-kFT_?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #39 - Get System via Vulnerable Driver Example using Userland Program
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7286550523871162368-8LhG?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
