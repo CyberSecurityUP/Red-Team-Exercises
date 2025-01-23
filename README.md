@@ -130,7 +130,7 @@ Red Team Exercises #39 - Get System via Vulnerable Driver Example using Userland
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7286550523871162368-8LhG?utm_source=share&utm_medium=member_desktop
 
 Red Team Exercises #40 - Dylib Injection in MacOS
-https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7288196343569731584-vjX8?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7288198763322511364-VT5d?utm_source=share&utm_medium=member_desktop
 
 -------------------------------------------------------------------
 
