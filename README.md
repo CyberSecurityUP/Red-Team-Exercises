@@ -132,6 +132,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-red
 Red Team Exercises #40 - Dylib Injection in MacOS
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7288198763322511364-VT5d?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #41 - Create your Pipeline to Offensive Development PT.1 MAAS by Joff Thyer
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-devops-cybersecurity-activity-7291583180384473088-PHCR?utm_source=share&utm_medium=member_desktop
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
