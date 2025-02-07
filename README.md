@@ -135,6 +135,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #41 - Create your Pipeline to Offensive Development PT.1 MAAS by Joff Thyer
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-devops-cybersecurity-activity-7291583180384473088-PHCR?utm_source=share&utm_medium=member_desktop
 
+Red Team Exercises #42 - Build your own C2 PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7293732841065005056-D7Yi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
