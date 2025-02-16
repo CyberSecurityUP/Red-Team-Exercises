@@ -138,6 +138,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-devops-cybersecur
 Red Team Exercises #42 - Build your own C2 PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7293732841065005056-D7Yi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #43 - BOF Development PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercisees-commandandcontrol-activity-7296747669199216640-IZJO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
