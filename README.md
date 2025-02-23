@@ -144,6 +144,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercisees
 Red Team Exercises #44 - Initial Access with VBA Macro PT.1 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_hacking-redteam-cybersecurity-activity-7297747587611201536-dc0p?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #45 - Monitoring Techniques for Your Red Team Infrastructure PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7299449832790777858-WcWk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
