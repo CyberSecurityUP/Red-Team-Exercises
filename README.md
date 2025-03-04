@@ -150,6 +150,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-red
 Red Team Exercises #46 - Shellcode Encryption using XOR PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-shellcoderunner-activity-7301643766367416321-qXy3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #47 - Vulnerability Research in Drivers Example PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7302757314783027200-7pVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
