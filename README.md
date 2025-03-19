@@ -156,6 +156,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #48 - Privilege Escalation PT.1 - Token Manipulation
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-activity-7307015283930488832-Etv-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #49 - Bypass DLP PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7308108480517701634-xTYQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
