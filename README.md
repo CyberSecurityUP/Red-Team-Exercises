@@ -159,6 +159,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 Red Team Exercises #49 - Bypass DLP PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-redteamexercises-activity-7308108480517701634-xTYQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #50 Fake reCaptcha Phishing 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-hacking-cybersecurity-activity-7313318885938683904--qu4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
