@@ -162,6 +162,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-red
 Red Team Exercises #50 Fake reCaptcha Phishing 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-hacking-cybersecurity-activity-7313318885938683904--qu4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #51 - MCP (Model Context Protocol) in Offensive Security
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-mcp-activity-7316907474106695681-cqjI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
