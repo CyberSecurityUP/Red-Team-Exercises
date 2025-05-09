@@ -167,6 +167,7 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-
 
 Red Team Exercises #52 - Abusing Active Directory Certificate Services PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7321354849508335617-dE4S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
