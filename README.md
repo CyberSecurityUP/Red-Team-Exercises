@@ -4,8 +4,7 @@
 
 My LinkedIn: https://www.linkedin.com/in/joas-antonio-dos-santos/ 
 
-
-Download Lab Dev: https://mega.nz/file/LB1HTQQL#UQ9dKCj55NO1up-iJxfUqGXpV7uJlSMuONhdr6Z8NBo
+Courses: http://courses.redteamleaders.com/ or http://courses.redteamleaders.com/
 
 ### LinkedIn posts
 
