@@ -185,6 +185,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #58 - Chrome Password Dump
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-hacking-activity-7395999596381974528-lKyk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #59 - Runtime IAT PT.1
+https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-hacking-redteamexercises-activity-7425656040685477888-1eFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
