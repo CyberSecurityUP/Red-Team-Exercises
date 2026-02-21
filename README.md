@@ -188,6 +188,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-cybersecurity-hac
 Red Team Exercises #59 - Runtime IAT PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-hacking-redteamexercises-activity-7425656040685477888-1eFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #60: TypeLib Hijacking for Stealthy Windows Persistence 
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-hacking-pentest-activity-7431023656127946752-qD5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
