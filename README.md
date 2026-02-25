@@ -191,6 +191,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_cybersecurity-hacking-red
 Red Team Exercises #60: TypeLib Hijacking for Stealthy Windows Persistence 
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-hacking-pentest-activity-7431023656127946752-qD5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #61 - Shellcode Hiding with UUID Strings
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7432448994590654464-Auk5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
