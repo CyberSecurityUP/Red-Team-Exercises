@@ -194,6 +194,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-hacking-
 Red Team Exercises #61 - Shellcode Hiding with UUID Strings
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7432448994590654464-Auk5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #62 - Shellcode via IPv4 Address Conversion
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7433370972331638785-adS_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
