@@ -197,6 +197,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #62 - Shellcode via IPv4 Address Conversion
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7433370972331638785-adS_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #63 - WASM Smuggling
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7440564947249516546-iUhf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
