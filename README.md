@@ -200,9 +200,11 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #63 - WASM Smuggling
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-activity-7440564947249516546-iUhf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
-
 Red Team Exercises #64 - Kernel Callback Table Injection
 https://www.linkedin.com/posts/joas-antonio-dos-santos_red-team-exercises-64-kernel-callback-activity-7441913861944864770-l6hF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
+Red Team Exercises #65 - EDR Unhooking via Manual DLL Mapping
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-ugcPost-7454273610090737664-DVxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
 -------------------------------------------------------------------
 
