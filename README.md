@@ -206,6 +206,9 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_red-team-exercises-64-ker
 Red Team Exercises #65 - EDR Unhooking via Manual DLL Mapping
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-ugcPost-7454273610090737664-DVxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #66 - Golden Certificate Attack (AD CS Persistence)
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-cybersecurity-share-7456361008526336000-8AAl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
