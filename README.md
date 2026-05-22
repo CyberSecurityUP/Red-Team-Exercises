@@ -212,6 +212,10 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-
 Red Team Exercises #67 - Data-Only Gadget Windows Kernel Exploitation PT.1
 https://www.linkedin.com/posts/joas-antonio-dos-santos_red-team-exercises-67-data-only-gadget-share-7460124854877601792-hQa8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #68 - KslKatz: LSASS Dump via BYOVD
+https://www.linkedin.com/posts/joas-antonio-dos-santos_red-team-exercises-68-kslkatz-lsass-dump-ugcPost-7463687028778590208-1OES?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
+
+
 -------------------------------------------------------------------
 
 # OSINT-Red-Team-Exercises
